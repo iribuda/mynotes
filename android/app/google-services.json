@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465816958541",
+    "project_id": "mynotes-flutter-demoon",
+    "storage_bucket": "mynotes-flutter-demoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465816958541:android:7e8db45c402b7682ccce04",
+        "android_client_info": {
+          "package_name": "flutter.learn.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZyumKHbSqgTocd_OhZitOH7ujbFEig0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
